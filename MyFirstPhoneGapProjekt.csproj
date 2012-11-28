@@ -165,6 +165,8 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="AndroidManifest.xml" />
+    <Content Include="res\xml\config.xml" />
     <Content Include="resources\notification-beep.wav" />
     <Content Include="www\cordova-2.2.0.js" />
     <Content Include="www\img\logo.png" />
