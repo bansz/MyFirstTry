@@ -35,7 +35,7 @@ var app = {
     // function, we must explicity call `app.receivedEvent(...);`
     onDeviceReady: function () {
         app.receivedEvent('deviceready');
-        document.addEventListener("volumeupbutton", onVolumeUpKeyDown, false);
+        document.addEventListener("volumeupbutton", app.onVolumeUpKeyDown, false);
         app.textButtonClicked();
     },
     // Update DOM on a Received Event
@@ -52,7 +52,7 @@ var app = {
 
     textButtonClicked: function () {
 
-        navigator.notification.alert('Szöveg: ' + document.getElementById('txtSzoveg').textContent, alertCallback, 'Jó hír', 'Rendicsek');
+        navigator.notification.alert('Szöveg: ' + document.getElementById('txtSzoveg').textContent, app.alertCallback, 'Jó hír', 'Rendicsek');
 
         var element = document.getElementById('deviceProperties');
 

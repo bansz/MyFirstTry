@@ -1,4 +1,4 @@
-﻿<xapCache source="D:\Dev\GitHub\MyFirstTry\Bin\Debug\MyFirstPhoneGapProjekt.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="2012.11.28. 11:32:20">
+﻿<xapCache source="D:\Dev\GitHub\MyFirstTry\Bin\Debug\MyFirstPhoneGapProjekt.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="2012.11.28. 11:48:11">
   <file source="D:\Dev\GitHub\MyFirstTry\Bin\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="2012.11.28. 11:23:56" />
   <file source="D:\Dev\GitHub\MyFirstTry\Background.png" archivePath="Background.png" lastWriteTime="2012.11.27. 14:29:15" />
   <file source="D:\Dev\GitHub\MyFirstTry\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="2012.11.27. 14:29:15" />
@@ -8,11 +8,11 @@
   <file source="D:\Dev\GitHub\MyFirstTry\resources\notification-beep.wav" archivePath="resources\notification-beep.wav" lastWriteTime="2012.11.27. 14:29:15" />
   <file source="D:\Dev\GitHub\MyFirstTry\www\cordova-2.2.0.js" archivePath="www\cordova-2.2.0.js" lastWriteTime="2012.11.27. 14:29:15" />
   <file source="D:\Dev\GitHub\MyFirstTry\www\img\logo.png" archivePath="www\img\logo.png" lastWriteTime="2012.11.27. 14:29:15" />
-  <file source="D:\Dev\GitHub\MyFirstTry\www\js\index.js" archivePath="www\js\index.js" lastWriteTime="2012.11.28. 11:31:30" />
+  <file source="D:\Dev\GitHub\MyFirstTry\www\js\index.js" archivePath="www\js\index.js" lastWriteTime="2012.11.28. 11:48:11" />
   <file source="D:\Dev\GitHub\MyFirstTry\cordovalib\resources\notification-beep.wav" archivePath="cordovalib\resources\notification-beep.wav" lastWriteTime="2012.11.27. 14:29:15" />
-  <file source="D:\Dev\GitHub\MyFirstTry\CordovaSourceDictionary.xml" archivePath="CordovaSourceDictionary.xml" lastWriteTime="2012.11.28. 11:32:20" />
+  <file source="D:\Dev\GitHub\MyFirstTry\CordovaSourceDictionary.xml" archivePath="CordovaSourceDictionary.xml" lastWriteTime="2012.11.28. 11:48:11" />
   <file source="D:\Dev\GitHub\MyFirstTry\www\css\index.css" archivePath="www\css\index.css" lastWriteTime="2012.11.28. 10:22:55" />
-  <file source="D:\Dev\GitHub\MyFirstTry\www\index.html" archivePath="www\index.html" lastWriteTime="2012.11.28. 11:31:30" />
+  <file source="D:\Dev\GitHub\MyFirstTry\www\index.html" archivePath="www\index.html" lastWriteTime="2012.11.28. 11:48:11" />
   <file source="D:\Dev\GitHub\MyFirstTry\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="2012.11.27. 14:29:15" />
   <file source="D:\Dev\GitHub\MyFirstTry\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2012.11.28. 11:18:36" />
 </xapCache>
